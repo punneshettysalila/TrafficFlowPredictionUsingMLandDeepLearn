@@ -85,10 +85,10 @@ Salila and Team,
 Information Science Engineering Student,
 PDA College of Engineering
 
-Team Members :
-    SALILA S P
-    SONAL M S
-    SWATI S J
+## Team Members :
+### SALILA S P
+### SONAL M S
+### SWATI S J
 
 ***
 
