@@ -74,11 +74,23 @@ This project demonstrates how deep learning (LSTM) and machine learning can turn
 - Can deploy to the cloud or a local server
 
 ## OUTPUT
-
+<img width="1405" height="720" alt="Image" src="https://github.com/user-attachments/assets/9bc94320-4b0c-4d76-9d6b-54efcc7ec500" />
+<img width="1450" height="594" alt="Image" src="https://github.com/user-attachments/assets/e9984e42-daf6-48fe-bcf6-14a7f78e450e" />
+<img width="946" height="595" alt="Image" src="https://github.com/user-attachments/assets/cff8417d-b57d-4a6c-bcc5-190a46098a62" />
+<img width="1139" height="712" alt="Image" src="https://github.com/user-attachments/assets/250fe04d-ee0c-4fb4-87dc-4d946e617d73" />
+<img width="1086" height="677" alt="Image" src="https://github.com/user-attachments/assets/f8d4dc12-ec42-456d-a773-902a5c2c3f6e" />
+<img width="931" height="773" alt="Image" src="https://github.com/user-attachments/assets/ad17a683-bdae-417d-b218-2f6ede2886c9" />
+<img width="1107" height="641" alt="Image" src="https://github.com/user-attachments/assets/065b4363-092e-4e4b-9e1f-19bbd291ac06" />
+<img width="1038" height="642" alt="Image" src="https://github.com/user-attachments/assets/e7cb48cf-3fc2-41b4-9429-c9d5102e1f16" />
+<img width="847" height="745" alt="Image" src="https://github.com/user-attachments/assets/4c15343e-a0a8-4ee1-9b05-b27d9492f4b2" />
 
 ## License
 
 MIT License
+
+Apache License 2.0
+
+BSD License (2-Clause or 3-Clause)
 
 ## Developed By
 Salila and Team,
