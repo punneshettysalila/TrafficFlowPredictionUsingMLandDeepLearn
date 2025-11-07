@@ -1,4 +1,3 @@
-Here’s a clean, effective **README.md** draft for your single dataset traffic prediction project:
 
 ***
 
